@@ -1,0 +1,13 @@
+.active {
+    text-decoration: underline !important;
+}
+.not-active {
+    text-decoration: none !important;
+    color: black;
+}
+.not-active:hover {
+    text-decoration: underline !important;
+}
+.page-link {
+    padding-right:5px;
+}
