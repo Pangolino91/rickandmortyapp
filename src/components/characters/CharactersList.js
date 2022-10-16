@@ -32,7 +32,7 @@ const CharactersList = () => {
 
     return (
         <Fragment>
-            <h1>CharactersList</h1>
+            <h1>NEW characters list coming from 1.1.3</h1>
             <nav>
                 <Link to="/favlist">Fav List</Link>
             </nav>
