@@ -32,8 +32,7 @@ const CharactersList = () => {
 
     return (
         <Fragment>
-            <h1>Completely different in the MAIN branch</h1>
-            <h1>Here as well!</h1>
+            <h1>This is the main Branch!!!</h1>
             <nav>
                 <Link to="/favlist">Fav List</Link>
             </nav>
